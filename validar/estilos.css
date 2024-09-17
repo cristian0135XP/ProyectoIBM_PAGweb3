@@ -16,7 +16,7 @@ body{
 
 }
 .formulario{
-    width: 300px;
+    width: 350px;
     
     padding: 40px;
     background: #191919;
@@ -35,10 +35,10 @@ body{
     border: 0;
     background: none;
     display: block;
-    margin: 20px auto;
+    margin: 25px auto;
     text-align: center;  
     border: 2px solid #3742fa;
-    width: 200px;
+    width: 250px;
     height: 40px;
     outline: none;
     color: white;
